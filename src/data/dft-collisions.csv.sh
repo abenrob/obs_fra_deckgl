@@ -1,4 +1,4 @@
-# URL="https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-collision-1979-latest-published-year.csv"
+URL="https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-collision-1979-latest-published-year.csv"
 
 # Use the data loader cache directory to store the downloaded data.
 TMPDIR=".observablehq/cache/data"
